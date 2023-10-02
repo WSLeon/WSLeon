@@ -56,8 +56,6 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### DevOps
 <div align="center">  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="75" /></a>  
